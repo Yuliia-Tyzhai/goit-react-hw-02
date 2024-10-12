@@ -1,0 +1,14 @@
+.btnContainer {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.btn {
+  font-size: 24px;
+  color: #fffff0;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  background-color: #808080;
+}
